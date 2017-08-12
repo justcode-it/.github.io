@@ -1,23 +1,20 @@
-- name: Medical Imaging
+- name: Java
   percentage: 95
 
 - name: Python
   percentage: 95
 
-- name: Prostate Cancer
+- name: Asp.Net
   percentage: 95
 
 - name: C/C++
   percentage: 80
 
-- name: Retinopathy
+- name: C#
   percentage: 85
 
 - name: Git
   percentage: 98
-
-- name: Pattern Recognition
-  percentage: 90
 
 - name: Linux/Unix
   percentage: 95
@@ -34,8 +31,8 @@
 - name: Latex
   percentage: 95
 
-- name: Computer Vision
+- name: Bootstrap
   percentage: 85
 
 - name: HTML/CSS
-  percentage: 80
+  percentage: 100
