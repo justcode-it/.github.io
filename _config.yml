@@ -1,23 +1,23 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: "G. Lemaitre"
-description: "Personal website of Guillaume Lemaitre"
-keywords: "glemaitre,guillaume,lemaitre,medical,imaging,prostate"
+title: "Taruna Arora"
+description: "Personal website of Taruna Arora"
+keywords: "Taruna,IOCL"
 baseurl: "/"
-url: "http://glemaitre.github.io"
+url: "http://justcode-it.github.io"
 # url: "http://127.0.0.1:4000"
 
 # author
 author:
-  name: 'Lemaitre'
-  first_name: 'Guillaume'
-  last_name: 'Lemaitre'
-  email: 'g.lemaitre58@gmail.com'
-  linkedin_username: 'https://www.linkedin.com/in/guillaume-lemaitre-b9404939'
-  github_username: 'glemaitre'
+  name: 'Taruna'
+  first_name: 'Taruna'
+  last_name: 'Arora'
+  email: 'taruna1992@gmail.com'
+  linkedin_username: 'https://www.linkedin.com/in/taruna'
+  github_username: 'justcode-it'
   head_img: 'static/img/landing/picture.png'
-  desc: 'I am a researcher focusing on medical imaging, pattern recogntion, and machine learning. I strive for open source and data.'
+  desc: 'I am a software developer working in IndianOil Corporation Limited'
 
 # sections
 sections:
